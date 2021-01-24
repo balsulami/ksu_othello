@@ -11,11 +11,11 @@ import edu.ksu.csc.ai.othello.Square;
  *
  * @author <a href="http://www.sultanik.com" target="_blank">Evan A. Sultanik</a>
  */
-public class ExampleOthelloPlayer extends OthelloPlayer {
+public class AOthelloPlayer extends OthelloPlayer {
 	/**
 	 * Creates a new <code>ExampleOthelloPlayer</code>.
 	 */
-	public ExampleOthelloPlayer(String name) {
+	public AOthelloPlayer(String name) {
 		super(name);
 	}
 
